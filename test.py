@@ -13,6 +13,9 @@ tools.handle(dateSet)
 def printToPath:
     print 'haha'
 
+def shijiebei:
+    print 'haha'
+
 
 
 
