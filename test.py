@@ -10,6 +10,9 @@ from myTool import tools
 
 tools.handle(dateSet)
 
+def printToPath:
+    print 'haha'
+
 
 
 
